@@ -1,262 +1,366 @@
 [
     {
         "name": "2_of_clubs",
-        "path": "../public/cards/2_of_clubs.svg",
-        "id": 1
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/2_of_clubs.svg",
+        "id": 0,
+        "type": "standard",
+        "value": 2
     },
     {
         "name": "3_of_clubs",
-        "path": "../public/cards/3_of_clubs.svg",
-        "id": 2
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/3_of_clubs.svg",
+        "id": 1,
+        "type": "standard",
+        "value": 3
     },
     {
         "name": "4_of_clubs",
-        "path": "../public/cards/4_of_clubs.svg",
-        "id": 3
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/4_of_clubs.svg",
+        "id": 2,
+        "type": "standard",
+        "value": 4
     },
     {
         "name": "5_of_clubs",
-        "path": "../public/cards/5_of_clubs.svg",
-        "id": 4
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/5_of_clubs.svg",
+        "id": 3,
+        "type": "standard",
+        "value": 5
     },
     {
         "name": "6_of_clubs",
-        "path": "../public/cards/6_of_clubs.svg",
-        "id": 5
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/6_of_clubs.svg",
+        "id": 4,
+        "type": "standard",
+        "value": 6
     },
     {
         "name": "7_of_clubs",
-        "path": "../public/cards/7_of_clubs.svg",
-        "id": 6
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/7_of_clubs.svg",
+        "id": 5,
+        "type": "standard",
+        "value": 7
     },
     {
         "name": "8_of_clubs",
-        "path": "../public/cards/8_of_clubs.svg",
-        "id": 7
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/8_of_clubs.svg",
+        "id": 6,
+        "type": "standard",
+        "value": 8
     },
     {
         "name": "9_of_clubs",
-        "path": "../public/cards/9_of_clubs.svg",
-        "id": 8
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/9_of_clubs.svg",
+        "id": 7,
+        "type": "standard",
+        "value": 9
     },
     {
         "name": "10_of_clubs",
-        "path": "../public/cards/10_of_clubs.svg",
-        "id": 9
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/10_of_clubs.svg",
+        "id": 8,
+        "type": "standard",
+        "value": 10
     },
     {
         "name": "jack_of_clubs",
-        "path": "../public/cards/jack_of_clubs.svg",
-        "id": 10
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/jack_of_clubs.svg",
+        "id": 9,
+        "type": "standard",
+        "value": 10
     },
     {
         "name": "queen_of_clubs",
-        "path": "../public/cards/queen_of_clubs.svg",
-        "id": 11
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/queen_of_clubs.svg",
+        "id": 10,
+        "type": "standard",
+        "value": 10
     },
     {
         "name": "king_of_clubs",
-        "path": "../public/cards/king_of_clubs.svg",
-        "id": 12
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/king_of_clubs.svg",
+        "id": 11,
+        "type": "standard",
+        "value": 10
     },
     {
         "name": "ace_of_clubs",
-        "path": "../public/cards/ace_of_clubs.svg",
-        "id": 13
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/ace_of_clubs.svg",
+        "id": 12,
+        "type": "ace",
+        "value": 11
     },
     {
         "name": "2_of_diamonds",
-        "path": "../public/cards/2_of_diamonds.svg",
-        "id": 14
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/2_of_diamonds.svg",
+        "id": 13,
+        "type": "standard",
+        "value": 2
     },
     {
         "name": "3_of_diamonds",
-        "path": "../public/cards/3_of_diamonds.svg",
-        "id": 15
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/3_of_diamonds.svg",
+        "id": 14,
+        "type": "standard",
+        "value": 3
     },
     {
         "name": "4_of_diamonds",
-        "path": "../public/cards/4_of_diamonds.svg",
-        "id": 16
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/4_of_diamonds.svg",
+        "id": 15,
+        "type": "standard",
+        "value": 4
     },
     {
         "name": "5_of_diamonds",
-        "path": "../public/cards/5_of_diamonds.svg",
-        "id": 17
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/5_of_diamonds.svg",
+        "id": 16,
+        "type": "standard",
+        "value": 5
     },
     {
         "name": "6_of_diamonds",
-        "path": "../public/cards/6_of_diamonds.svg",
-        "id": 18
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/6_of_diamonds.svg",
+        "id": 17,
+        "type": "standard",
+        "value": 6
     },
     {
         "name": "7_of_diamonds",
-        "path": "../public/cards/7_of_diamonds.svg",
-        "id": 19
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/7_of_diamonds.svg",
+        "id": 18,
+        "type": "standard",
+        "value": 7
     },
     {
         "name": "8_of_diamonds",
-        "path": "../public/cards/8_of_diamonds.svg",
-        "id": 20
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/8_of_diamonds.svg",
+        "id": 19,
+        "type": "standard",
+        "value": 8
     },
     {
         "name": "9_of_diamonds",
-        "path": "../public/cards/9_of_diamonds.svg",
-        "id": 21
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/9_of_diamonds.svg",
+        "id": 20,
+        "type": "standard",
+        "value": 9
     },
     {
         "name": "10_of_diamonds",
-        "path": "../public/cards/10_of_diamonds.svg",
-        "id": 22
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/10_of_diamonds.svg",
+        "id": 21,
+        "type": "standard",
+        "value": 10
     },
     {
         "name": "jack_of_diamonds",
-        "path": "../public/cards/jack_of_diamonds.svg",
-        "id": 23
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/jack_of_diamonds.svg",
+        "id": 22,
+        "type": "standard",
+        "value": 10
     },
     {
         "name": "queen_of_diamonds",
-        "path": "../public/cards/queen_of_diamonds.svg",
-        "id": 24
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/queen_of_diamonds.svg",
+        "id": 23,
+        "type": "standard",
+        "value": 10
     },
     {
         "name": "king_of_diamonds",
-        "path": "../public/cards/king_of_diamonds.svg",
-        "id": 25
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/king_of_diamonds.svg",
+        "id": 24,
+        "type": "standard",
+        "value": 10
     },
     {
         "name": "ace_of_diamonds",
-        "path": "../public/cards/ace_of_diamonds.svg",
-        "id": 26
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/ace_of_diamonds.svg",
+        "id": 25,
+        "type": "ace",
+        "value": 11
     },
     {
         "name": "2_of_hearts",
-        "path": "../public/cards/2_of_hearts.svg",
-        "id": 27
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/2_of_hearts.svg",
+        "id": 26,
+        "type": "standard",
+        "value": 2
     },
     {
         "name": "3_of_hearts",
-        "path": "../public/cards/3_of_hearts.svg",
-        "id": 28
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/3_of_hearts.svg",
+        "id": 27,
+        "type": "standard",
+        "value": 3
     },
     {
         "name": "4_of_hearts",
-        "path": "../public/cards/4_of_hearts.svg",
-        "id": 29
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/4_of_hearts.svg",
+        "id": 28,
+        "type": "standard",
+        "value": 4
     },
     {
         "name": "5_of_hearts",
-        "path": "../public/cards/5_of_hearts.svg",
-        "id": 30
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/5_of_hearts.svg",
+        "id": 29,
+        "type": "standard",
+        "value": 5
     },
     {
         "name": "6_of_hearts",
-        "path": "../public/cards/6_of_hearts.svg",
-        "id": 31
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/6_of_hearts.svg",
+        "id": 30,
+        "type": "standard",
+        "value": 6
     },
     {
         "name": "7_of_hearts",
-        "path": "../public/cards/7_of_hearts.svg",
-        "id": 32
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/7_of_hearts.svg",
+        "id": 31,
+        "type": "standard",
+        "value": 7
     },
     {
         "name": "8_of_hearts",
-        "path": "../public/cards/8_of_hearts.svg",
-        "id": 33
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/8_of_hearts.svg",
+        "id": 32,
+        "type": "standard",
+        "value": 8
     },
     {
         "name": "9_of_hearts",
-        "path": "../public/cards/9_of_hearts.svg",
-        "id": 34
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/9_of_hearts.svg",
+        "id": 33,
+        "type": "standard",
+        "value": 9
     },
     {
         "name": "10_of_hearts",
-        "path": "../public/cards/10_of_hearts.svg",
-        "id": 35
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/10_of_hearts.svg",
+        "id": 34,
+        "type": "standard",
+        "value": 10
     },
     {
         "name": "jack_of_hearts",
-        "path": "../public/cards/jack_of_hearts.svg",
-        "id": 36
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/jack_of_hearts.svg",
+        "id": 35,
+        "type": "standard",
+        "value": 10
     },
     {
         "name": "queen_of_hearts",
-        "path": "../public/cards/queen_of_hearts.svg",
-        "id": 37
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/queen_of_hearts.svg",
+        "id": 36,
+        "type": "standard",
+        "value": 10
     },
     {
         "name": "king_of_hearts",
-        "path": "../public/cards/king_of_hearts.svg",
-        "id": 38
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/king_of_hearts.svg",
+        "id": 37,
+        "type": "standard",
+        "value": 10
     },
     {
         "name": "ace_of_hearts",
-        "path": "../public/cards/ace_of_hearts.svg",
-        "id": 39
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/ace_of_hearts.svg",
+        "id": 38,
+        "type": "ace",
+        "value": 11
     },
     {
         "name": "2_of_spades",
-        "path": "../public/cards/2_of_spades.svg",
-        "id": 40
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/2_of_spades.svg",
+        "id": 39,
+        "type": "standard",
+        "value": 2
     },
     {
         "name": "3_of_spades",
-        "path": "../public/cards/3_of_spades.svg",
-        "id": 41
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/3_of_spades.svg",
+        "id": 40,
+        "type": "standard",
+        "value": 3
     },
     {
         "name": "4_of_spades",
-        "path": "../public/cards/4_of_spades.svg",
-        "id": 42
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/4_of_spades.svg",
+        "id": 41,
+        "type": "standard",
+        "value": 4
     },
     {
         "name": "5_of_spades",
-        "path": "../public/cards/5_of_spades.svg",
-        "id": 43
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/5_of_spades.svg",
+        "id": 42,
+        "type": "standard",
+        "value": 5
     },
     {
         "name": "6_of_spades",
-        "path": "../public/cards/6_of_spades.svg",
-        "id": 44
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/6_of_spades.svg",
+        "id": 43,
+        "type": "standard",
+        "value": 6
     },
     {
         "name": "7_of_spades",
-        "path": "../public/cards/7_of_spades.svg",
-        "id": 45
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/7_of_spades.svg",
+        "id": 44,
+        "type": "standard",
+        "value": 7
     },
     {
         "name": "8_of_spades",
-        "path": "../public/cards/8_of_spades.svg",
-        "id": 46
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/8_of_spades.svg",
+        "id": 45,
+        "type": "standard",
+        "value": 8
     },
     {
         "name": "9_of_spades",
-        "path": "../public/cards/9_of_spades.svg",
-        "id": 47
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/9_of_spades.svg",
+        "id": 46,
+        "type": "standard",
+        "value": 9
     },
     {
         "name": "10_of_spades",
-        "path": "../public/cards/10_of_spades.svg",
-        "id": 48
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/10_of_spades.svg",
+        "id": 47,
+        "type": "standard",
+        "value": 10
     },
     {
         "name": "jack_of_spades",
-        "path": "../public/cards/jack_of_spades.svg",
-        "id": 49
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/jack_of_spades.svg",
+        "id": 48,
+        "type": "standard",
+        "value": 10
     },
     {
         "name": "queen_of_spades",
-        "path": "../public/cards/queen_of_spades.svg",
-        "id": 50
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/queen_of_spades.svg",
+        "id": 49,
+        "type": "standard",
+        "value": 10
     },
     {
         "name": "king_of_spades",
-        "path": "../public/cards/king_of_spades.svg",
-        "id": 51
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/king_of_spades.svg",
+        "id": 50,
+        "type": "standard",
+        "value": 10
     },
     {
         "name": "ace_of_spades",
-        "path": "../public/cards/ace_of_spades.svg",
-        "id": 52
+        "path": "https://raw.githubusercontent.com/Alin-Lipotchi/blackjack/master/src/assets/cards/ace_of_spades.svg",
+        "id": 51,
+        "type": "ace",
+        "value": 11
     }
 ]
